@@ -8,7 +8,7 @@ void setup() {
 void draw() {
   background(77,random(300),200);
   
-  //top I
+  //top Ii
   textSize(200);
   fill(252);
   text("I",100,200);
